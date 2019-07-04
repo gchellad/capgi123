@@ -6,6 +6,8 @@ public class Fisrt {
 		
 		
 		System.out.println("hello world");
+		
+		System.out.println("india is my country");
 
 	}
 }
